@@ -1,6 +1,5 @@
 # Deep Learning
 
-吴恩达深度学习编程作业原版和答案
+Andrew Ng's original version of deep learning programming homework and answers
 
-目录结构与`Coursera`完全一致，文件名以`Solution`结尾的`ipynb`文件是答案，6个大于100`MB`的文件可以在[腾讯微云](https://share.weiyun.com/5P8Onrp)或者[百度网盘](https://pan.baidu.com/s/1ADGCixYPHbfyII48aVRq3A)中下载，并根据`.gitignore`移动到相应目录下。
-
+The directory structure is exactly the same as `Coursera`. The `ipynb` file with the file name ending with `Solution` is the answer. The 6 files larger than 100 `MB` can be downloaded from [Tencent Weiyun](https://share.weiyun.com/5P8Onrp](https://pan.baidu.com/s/1ADGCixYPHbfyII48aVRq3A) or [Baidu Netdisk](https://pan.baidu.com/s/1ADGCixYPHbfyII48aVRq3A) and moved to the corresponding directory according to `.gitignore`.
