@@ -45,7 +45,6 @@ How to Use
    git clone https://github.com/Wuhall/AndrewNg-Deep-Learning.git
    ```
 2. Open Jupyter Notebook and navigate to the specific week's exercise
-3. Compare your solutions with the provided answers
 
 </div>
 
@@ -92,4 +91,3 @@ How to Use
    git clone https://github.com/Wuhall/AndrewNg-Deep-Learning.git
    ```
 2. 打开Jupyter Notebook并导航到特定周的练习
-3. 将自己的解答与提供的答案进行对比
